@@ -1,0 +1,4 @@
+# REPO is the repository
+REPO=git://github.com/docker/swarm
+
+# DEPENDS, if present is dependency
